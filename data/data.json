@@ -1,0 +1,62 @@
+{
+  "product": [
+    {
+      "title": "camera",
+      "price": "55000",
+      "category": [
+        "DSLR",
+        "electronic"
+      ],
+      "companyId": "",
+      "sellerId": [
+        ""
+      ],
+      "id": "1638033815931"
+    },
+    {
+      "title": "laptop",
+      "price": "45000",
+      "category": [
+        "electronic"
+      ],
+      "companyId": "1638033156302",
+      "sellerId": [
+        "1638000756123"
+      ],
+      "id": "1638033895032"
+    }
+  ],
+  "company": [
+    {
+      "name": "HP",
+      "product_ids": [
+        "1638033895032",
+        "1638033815931"
+      ],
+      "id": "1638033156302"
+    },
+    {
+      "name": "Dell",
+      "product_ids": [
+        "1638033815931"
+      ],
+      "id": "1638081462967"
+    }
+  ],
+  "seller": [
+    {
+      "name": "janak",
+      "product_ids": [
+        "1638033895032"
+      ],
+      "id": "1638000756123"
+    },
+    {
+      "name": "amin",
+      "product_ids": [
+        "1638033815931"
+      ],
+      "id": "1638081600727"
+    }
+  ]
+}
